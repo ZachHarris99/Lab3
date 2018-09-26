@@ -1,0 +1,41 @@
+p
+{
+    background-color: rgb(255, 153, 153);
+	color: rgb(26, 0, 0);
+	font-size: 24pt;
+	text-shadow: 1px 1px;
+	text-align: center;
+	margin: auto;
+	width: 50%;
+}
+
+p.links
+{
+	background-color: rgb(102, 140, 255);
+	color: rgb(0, 0, 26);
+	font-size: 24pt;
+	text-shadow: 1px 1px;
+	text-align: center;
+	margin: auto;
+	width: 50%;
+}
+
+body
+{
+    background-color: rgb(255, 204, 204);
+	background-image: url(http://www.funnygov.com/wp-content/uploads/2015/11/KU-formation.jpg);
+	background-size: 100%;
+	background-repeat: no-repeat();
+}
+
+a
+{
+	background-color: rgb(72, 118, 255);
+	color: rgb(0, 0, 26);
+}
+
+a:hover
+{
+	background-color: rgb(255, 105, 107);
+	color: rgb(26, 0, 0);
+}

@@ -1,0 +1,11 @@
+p
+{
+    background-color: rgb(255, 153, 153);
+	border-style: solid;
+	border-width: 2px;
+	border-color: rgb(0, 0, 0);
+	color: rgb(26, 0, 0);
+	font-size: 32pt;
+	text-shadow: 1px 1px;
+	text-align: center;
+}
